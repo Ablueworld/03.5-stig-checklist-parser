@@ -1,0 +1,5 @@
+STIG Password Policy Compliance Report
+--------------------------------------
+ PASS_MAX_DAYS = 60 (STIG OK)
+ PASS_MIN_DAYS = 1 (STIG OK)
+ PASS_WARN_AGE = 7 (STIG OK)
