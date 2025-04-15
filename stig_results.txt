@@ -1,0 +1,7 @@
+🔒 STIG Password Policy Compliance Report
+File checked: /etc/login.defs
+Date: 2025-04-15 01:34:53
+--------------------------------------------------
+✅ PASS_MAX_DAYS = 60 (STIG OK)
+✅ PASS_MIN_DAYS = 1 (STIG OK)
+✅ PASS_WARN_AGE = 7 (STIG OK)
